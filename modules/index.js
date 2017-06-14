@@ -1,5 +1,5 @@
 var express = require('express');
-var router = express.Route();
+var router = express.Router();
 var path = require('path');
 
 router.get('/', function(req, res) {
@@ -7,4 +7,4 @@ router.get('/', function(req, res) {
 	res.sendFile(path.resolve('views/index.html'));
 });
 
-modules.exports = router;
+module.exports = router;

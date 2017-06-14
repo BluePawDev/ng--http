@@ -10,7 +10,7 @@
 - SQL, Express.js, AngularJS, Node.js
 
 - Spin up basic node/experss/ng project
-- server HTML/JS/CSS
+- server HTML/JS/CSS with AngularJS
 - GET call on button click (ng-init)
     - $HTTP
         - Two syntaxes
