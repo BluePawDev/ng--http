@@ -1,0 +1,24 @@
+{
+  "name": "ng--http",
+  "version": "1.0.0",
+  "description": "- $HTTP is to AngularJS     - as is - Ajax is to jQuery",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BluePawDev/ng--http.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BluePawDev/ng--http/issues"
+  },
+  "homepage": "https://github.com/BluePawDev/ng--http#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
